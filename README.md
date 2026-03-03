@@ -6,10 +6,9 @@
 
 📍 Paris, France · 🎓 EPITA SCIA '27
 
-[![Website](https://img.shields.io/badge/arthurlefebvre.xyz-000000?style=flat-square&logo=safari&logoColor=white)](https://arthurlefebvre.xyz)
+[![Website]](https://arthurlefebvre.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-lefebvre-fr/)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)](https://huggingface.co/slipy0)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arthur.lefebvre@epita.fr)
 
 </div>
 
