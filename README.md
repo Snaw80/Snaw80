@@ -1,40 +1,49 @@
-<div align="center">
+# Hi, I'm Arthur 👋
 
-# 👋 Arthur Lefebvre
+  ### 🎓 AI Engineer · EPITA SCIA '27 · Paris, France
 
-**🤖 AI Engineer · 🚀 Co-founder @ [Condense Labs](https://condense-labs.com)**
+  I'm building **[Condense Labs](https://condense-labs.com)** with
+  [@amaurydelille](https://github.com/amaurydelille) — a platform that compresses AI models to make
+  them production-ready. The goal: give any team access to powerful models without needing an ML team
+  to run them.
 
-📍 Paris, France · 🎓 EPITA SCIA '27
+  ---
 
-[![Website](https://img.shields.io/badge/arthurlefebvre.xyz-000000?style=flat-square&logoColor=white)](https://arthurlefebvre.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-lefebvre-fr/)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)](https://huggingface.co/slipy0)
+  ### 🚀 What I'm Building
 
-</div>
+  **[Condense Labs](https://condense-labs.com) — *AI Compression Platform***
+  **Production-ready AI for teams without ML expertise.** State-of-the-art models are powerful but
+  impractical to deploy, they are too large, too slow, too costly. We make that gap disappear.
+  - **The Stack:** Python, PyTorch, HuggingFace, Docker.
+  - **The Goal:** Simple compression pipelines that preserve accuracy and cut inference costs.
 
----
+  ---
 
-### 📖 About
+  ### 🏗️ Past Work
 
-I study AI at EPITA (SCIA — Data Science & Artificial Intelligence) and I'm building **[Condense Labs](https://condense-labs.com)**, a platform that compresses AI models to make them production-ready. Simple for teams without ML expertise.
+  **[Padoa](https://www.padoa.fr) — *Fullstack Internship***
+  Occupational health SaaS serving 5M+ employees across France. Shipped features across the full stack.
+  - **The Stack:** React, TypeScript, PostgreSQL.
 
-Before that, I got a fullstack Internship at **Padoa**, an occupational health platform serving 5M+ employees across France. I also spent a semester abroad at **KMUTT** in Bangkok.
+  **KMUTT Bangkok — *Semester Abroad***
+  Spent a semester studying engineering in Thailand. Different academic culture, useful perspective
+  shift.
 
----
+  ---
 
-### 🔧 What I'm working on
+  ### 🧠 Tech Stack
 
-🗜️ Building **Condense Labs** with [@amaurydelille](https://github.com/amaurydelille)  
-🎓 Learning AI at EPITA  
+  - **AI & ML:** Python, PyTorch, HuggingFace, NumPy
+  - **Web & Cloud:** React, TypeScript, PostgreSQL, Redis, Docker
+  - **Systems:** C, C#, Java
 
----
+  ---
 
-### 🛠️ Tech I use
+  ### 📫 Find Me
 
-`Python` · `PyTorch` · `HuggingFace` · `React` · `TypeScript` · `PostgreSQL` · `Redis` · `Docker` · `C` · `C#` · `Java`
+  🌍 **Paris, France** — always up for a coffee ☕
+  🎓 **EPITA SCIA '27**
 
----
-
-<div align="center">
-<sub>Let's grab a coffee in Paris ☕</sub>
-</div>
+  [arthurlefebvre.xyz](https://arthurlefebvre.xyz) ·
+  [LinkedIn](https://www.linkedin.com/in/arthur-lefebvre-fr/) ·
+  [HuggingFace](https://huggingface.co/slipy0)
